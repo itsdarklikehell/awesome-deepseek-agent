@@ -15,7 +15,7 @@ Each guide walks through installation, configuration, and first run — so you c
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/awesome-deepseek-agent/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="./gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Contents
