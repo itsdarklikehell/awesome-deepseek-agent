@@ -2,6 +2,13 @@
 
 # Awesome DeepSeek Agent
 
+[![CI](https://github.com/itsdarklikehell/awesome-deepseek-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-deepseek-agent/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-deepseek-agent/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-deepseek-agent/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-deepseek-agent)](https://github.com/itsdarklikehell/awesome-deepseek-agent/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-deepseek-agent)](https://github.com/itsdarklikehell/awesome-deepseek-agent/pulls)
+
+
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
 A curated list of guides for integrating **DeepSeek** models into popular AI agent and coding-assistant tools.
